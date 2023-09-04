@@ -1,0 +1,10 @@
+package build;
+
+public class day11strmethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
